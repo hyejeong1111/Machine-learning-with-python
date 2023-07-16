@@ -1,2 +1,0 @@
-# machinelearningwithpython
-파이썬을이용한통계적머신러닝/자유아카데미
